@@ -4,11 +4,12 @@
 </p>
 
 - 🔭 I’m currently looking for jobs opportunities.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Node.js && Outsystems.
 - 😄 You can download my CV [here](https://github.com/dogaz05/dogaz05/tree/main/resources/CV-proto.pdf).
 <!-- - ⚡ You can look at my full stack here. -->
 
 ## Connect with me:
+
 <p>
 <a href="mailto:diogohugorocha@gmail.com"><img src="https://github.com/dogaz05/dogaz05/blob/main/resources/gmail.png" alt="gmail" width="30" height="30"/></a>
 <a href="www.linkedin.com/in/diogohugorocha"><img src="https://github.com/dogaz05/dogaz05/blob/main/resources/linkedin.png" alt="linkedin" width="30" height="30"/></a>
@@ -17,6 +18,7 @@
 </p>
 
 ## Technologies && Tools
+
 <p align="left">
 <img src="https://github.com/dogaz05/dogaz05/blob/main/resources/html.png" alt="html5" width="90" height="90"/>
 <img src="https://github.com/dogaz05/dogaz05/blob/main/resources/css.png" alt="css" width="90" height="90"/>
@@ -29,6 +31,7 @@
 </p>
 
 ## Statistics
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogaz05" alt="dogaz05" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=dogaz05&show_icons=true" alt="dogaz05" /></p>
 
