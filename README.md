@@ -34,8 +34,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogaz05" alt="dogaz05" /> </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dogaz05&show_icons=true&locale=en&theme=dark" alt="dogaz05" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogaz05&hide=SASS&locale=en&theme=dark" alt="dogaz05" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dogaz05&show_icons=true&locale=en&theme=dark" alt="dogaz05" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dogaz05&hide=SASS&locale=en&theme=dark" alt="dogaz05" />
 </p>
 
 
