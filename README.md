@@ -38,5 +38,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogaz05&show_icons=true&locale=en&theme=dark" alt="dogaz05" />
 </p>
 
-## ⭐️ By Diogo Rocha
 
